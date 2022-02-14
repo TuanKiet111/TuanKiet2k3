@@ -1,0 +1,30 @@
+*{
+    margin: auto;
+}
+#full{
+    width: 1000px;
+    height: 500px;
+    margin-top: 20px;
+}
+#content{
+    background-color: green;
+    width: 800px;
+    height: 500px;
+    float: left;
+}
+#right{
+    margin-left:  10px;
+    width: 190px;
+    height: 500px;
+    float: left;
+}
+#right img{
+    width: 200px;
+    height: 150px;
+    margin-bottom: 20px;
+}
+iframe{
+    width: 800px;
+    height: 500px;
+    margin-top: 20px;
+}
